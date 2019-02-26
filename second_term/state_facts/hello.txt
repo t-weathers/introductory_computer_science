@@ -1,0 +1,36 @@
+LARGEST STATE POPULATION: California
+
+LARGEST COUNTY POPULATION: 
+Oregon: Lane
+South_Carolina: Anderson
+California: San_Francisco
+COUNTIES ABOVE(INCOME): 
+San_Mateo San_Francisco Los_Angeles 
+
+AVERAGE HOUSEHOLD COST: 200000
+
+sorted names: 
+California: 
+Los_Angeles
+San_Francisco
+San_Mateo
+Santa_Cruz
+Oregon: 
+Benton
+Lane
+South_Carolina: 
+Anderson
+Pickens
+
+sorted populations: 
+California: 50000000
+San_Francisco 5000000
+Los_Angeles 5000000
+San_Mateo 2000000
+Santa_Cruz 100000
+Oregon: 1000000
+Lane 80000
+Benton 53000
+South_Carolina: 1000000
+Anderson 80000
+Pickens 50000
